@@ -14,7 +14,7 @@ We propose a simple yet effective structure called Interpolation-driven B-frame 
 
 ## Implemention
 
-The code manuscript has been open-sourced to the [IBVC_net.py](), and the specific training, testing, and pre-trained model is coming soon.
+The code manuscript has been open-sourced to the [IBVC_net.py](https://github.com/ruhig6/IBVC/blob/main/DCVC/subnet/src/models/IBVC_net.py), and the specific training, testing, and pre-trained model is coming soon.
 
 ## Acknowledgement
 
