@@ -1,6 +1,7 @@
 # IBVC: Interpolation-driven B-frame Video Compression
 
 The official PyTorch implementation of [IBVC](https://arxiv.org/abs/2309.13835).
+
 Authors: Chenming Xu, Meiqin Liu, Chao Yao, Weisi Lin, Yao Zhao
 
 ## Baseline
