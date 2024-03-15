@@ -38,10 +38,10 @@ If you find this work useful for your research, please cite:
   pages={1969--1978},
   year={2022}
 }
-@article{liu2023ibvc,
+@article{xu2024ibvc,
   title={{IBVC}: Interpolation-driven B-frame Video Compression},
-  author={Liu, Meiqin and Xu, Chenming and Yao, Chao and Lin, Weisi and Zhao, Yao},
+  author={Xu, Chenming and Liu, Meiqin and Yao, Chao and Lin, Weisi and Zhao, Yao},
   journal={arXiv preprint arXiv:2309.13835},
-  year={2023}
+  year={2024}
 }
 ```
